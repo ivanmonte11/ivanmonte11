@@ -2,6 +2,7 @@
 # 👋 Hi there, I'm Iván Maximiliano Monte
 
 💻 I'm an **Independent Full Stack Developer** based in Argentina, building **modern web applications** with technologies like **Next.js, Vue.js, Node.js, PostgreSQL, and MongoDB**. I work under the name **MonteStack**, delivering custom digital solutions for entrepreneurs and small businesses.
+I'm Student in BYU-Pathway, Software Development Bachelor's.
 
 ---
 
